@@ -1,0 +1,2 @@
+This repo is a template for you to fork from before you start the course. It means you can easily share your work for peer review and for assignments. 
+
