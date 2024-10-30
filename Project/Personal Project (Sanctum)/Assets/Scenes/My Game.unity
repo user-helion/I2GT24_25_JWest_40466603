@@ -1162,7 +1162,7 @@ Rigidbody:
   m_UseGravity: 1
   m_IsKinematic: 0
   m_Interpolate: 0
-  m_Constraints: 0
+  m_Constraints: 114
   m_CollisionDetection: 0
 --- !u!114 &679330417
 MonoBehaviour:
@@ -1181,6 +1181,9 @@ MonoBehaviour:
   horizontalInput: 0
   forwardInput: 0
   playerRb: {fileID: 0}
+  jumpForce: 8
+  gravityModifier: 2
+  isOnGround: 1
 --- !u!1 &688225642
 GameObject:
   m_ObjectHideFlags: 0
