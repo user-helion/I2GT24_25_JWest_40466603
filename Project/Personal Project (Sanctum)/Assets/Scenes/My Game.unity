@@ -1548,7 +1548,7 @@ RectTransform:
   m_GameObject: {fileID: 768623329}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 0.72281, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1966059064}
@@ -1556,7 +1556,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: 6.311203}
+  m_AnchoredPosition: {x: -274, y: 217}
   m_SizeDelta: {x: -472.0225, y: -457.3777}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &768623331
@@ -2021,7 +2021,7 @@ GameObject:
   - component: {fileID: 1194423601}
   - component: {fileID: 1194423600}
   m_Layer: 5
-  m_Name: Canvas
+  m_Name: Health Canvas
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
